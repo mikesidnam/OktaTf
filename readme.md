@@ -11,17 +11,3 @@ This project manages AWS, GCP, and Okta resources using Terraform in the free ti
 - Okta manages identity for AWS (SAML) and GCP (OIDC).
 - Use Okta groups for access control.
 
-
-
-
-okta-lab-project/
-├── aws/
-│   ├── main.tf
-│   └── variables.tf
-├── gcp/
-│   ├── main.tf
-│   └── variables.tf
-├── okta/
-│   ├── main.tf
-│   └── variables.tf
-└── README.md  # Optional: Add this for instructions
